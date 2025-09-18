@@ -41,7 +41,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ### whatweb :
 
-![whatweb](image.png)
+![whatweb](img/image.png)
 
 ### traceroute :
 
